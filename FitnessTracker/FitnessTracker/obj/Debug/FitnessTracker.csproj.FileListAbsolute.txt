@@ -1,0 +1,10 @@
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.AssemblyReference.cache
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Form1.resources
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Properties.Resources.resources
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.GenerateResource.cache
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+C:\Users\molpat446\Downloads\git\FitnessTracker\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
