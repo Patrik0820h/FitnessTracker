@@ -30,7 +30,7 @@ git clone https://github.com/felhasznalonev/FitnessTracker.git
 4. Állítsd be a dictionaryPath változót a projekt Datas.cs fájljában a helyi elérési útra:
 public static string dictionaryPath = "C:\\Users\\Patrik\\Documents\\GitHub\\FitnessTracker\\FitnessTracker\\FitnessTracker";
 
-5. Állítsd be a MySQL kapcsolatot a DatabaseSercive.cs fájlban:
+5. Állítsd be a MySQL kapcsolatot a Datas.cs fájlban:
 string connectionString = "Server=localhost;Database=adatok;Uid=root";
 ```
 ## Használat:
