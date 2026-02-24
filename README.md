@@ -27,10 +27,10 @@ git clone https://github.com/felhasznalonev/FitnessTracker.git
 - CsvHelper
 - MySql.Data
 
-4. Állítsd be a dictionaryPath változót a projekt Form1.cs fájljában a helyi elérési útra:
+4. Állítsd be a dictionaryPath változót a projekt Datas.cs fájljában a helyi elérési útra:
 public static string dictionaryPath = "C:\\Users\\Patrik\\Documents\\GitHub\\FitnessTracker\\FitnessTracker\\FitnessTracker";
 
-5. Állítsd be a MySQL kapcsolatot a button2_Click metódusban:
+5. Állítsd be a MySQL kapcsolatot a Datas.cs fájlban:
 string connectionString = "Server=localhost;Database=adatok;Uid=root";
 ```
 ## Használat:
